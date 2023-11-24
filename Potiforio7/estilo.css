@@ -1,0 +1,48 @@
+/* Estilos para o cabeçalho */
+
+header {
+    background-color: #351553;
+    color: #fff;
+    padding: 25px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav li:last-child {
+    margin-right: 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/* Estilos para as seções */
+
+section {
+    padding: 50px;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+
+/* Estilos para o rodapé */
+
+footer {
+    background-color: #351553;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
